@@ -5,63 +5,63 @@
 
 .green-box {
     float: left;
-    background-color: yellowgreen;
+    background-color: #2ECC71;
     width: 80%;
     height: 50px;
 }
 
 .blue-box {
     float: left;
-    background-color: royalblue;
+    background-color: #2980B9;
     width: 20%;
     height: 50px;
 }
 
 .red-box {
     float: left;
-    background-color: red;
+    background-color: #E74C3C;
     width: 33.33%;
     height: 100px;
 }
 
 .lightorange-box {
     float: left;
-    background-color: orange;
+    background-color: #F39C12;
     width: 33.33%;
     height: 100px;
 }
 
 .lightgrey-box {
     float: left;
-    background-color: lightgray;
+    background-color: #16A085;
     width: 33.33%;
     height: 100px;
 }
 
 .yellow-box {
     float: left;
-    background-color: yellow;
+    background-color: #2C3E50;
     width: 22.222%;
     height: 100px;
 }
 
 .cyan-box {
     float: left;
-    background-color: cyan;
+    background-color: #16A085;
     width: 22.222%;
     height: 100px;
 }
 
 .darkorange-box {
     float: left;
-    background-color: orangered;
+    background-color: #D35400;
     width: 22.222%;
     height: 100px;
 }
 
 .biggrey-box {
     float: left;
-    background-color: grey;
+    background-color: #2C3E50;
     width: 100%;
     height: 200px;
 }
